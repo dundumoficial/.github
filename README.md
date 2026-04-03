@@ -5,7 +5,6 @@
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=454ade&text=Seja%20Bem-vindo(a)%20à%20DunDum%20&fontColor=FFFFFF&fontSize=36&fontAlignY=30&animation=fadeIn" />
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=454ade&text=Seja%20Bem-vindo(a)%20à%20DunDum%20&fontColor=FFFFFF&fontSize=36&animation=fadeIn&section=header&textBg=false&reversal=false" /> -->
 
 <p>A <strong>DunDum</strong> é uma <strong>coleira inteligente</strong> que usa inteligência artificial para monitorar as condições físicas do pet.</p>
 
@@ -28,13 +27,6 @@
 
 <div align="center">
   <h2>Equipe</h2>
-
-  <!-- 
-    Para cada membro:
-    1. Suba a foto no GitHub (Issues > escreva um comentário > arraste a imagem > copie o link)
-    2. Cole o link da foto no src=""
-    3. Cole o link do LinkedIn no href=""
-  -->
 
   <a href="https://linkedin.com">
     <img width="19%" height="368" alt="Axel Ray" src="https://via.placeholder.com/200x368/1a2744/FFFFFF?text=Membro+1" />
@@ -73,13 +65,13 @@
   <h2 align="center">Redes Sociais</h2>
 
   <td align="center">
-    <a href="https://instagram.com/dundum">
+    <a href="https://instagram.com/dundumoficial">
       <img src="https://img.shields.io/badge/Instagram-454ade?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </td>
 
   <td align="center">
-    <a href="https://linkedin.com/company/dundum">
+    <a href="https://linkedin.com/company/dundumoficial">
       <img src="https://img.shields.io/badge/LinkedIn-454ade?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" />
     </a>
   </td>
