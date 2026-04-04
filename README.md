@@ -28,7 +28,7 @@
 <div align="center">
   <h2>Equipe</h2>
 
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/axel-ray-silva-de-azevedo-b9810437a/">
     <img width="19%" height="368" alt="Axel Ray" src="https://via.placeholder.com/200x368/1a2744/FFFFFF?text=Membro+1" />
   </a>
   <a href="https://www.linkedin.com/in/beatriz-lacerda-628635392">
