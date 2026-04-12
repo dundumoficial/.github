@@ -79,8 +79,8 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
 <div align="center">
 
   ![React](https://img.shields.io/badge/React-454ade?style=for-the-badge&logo=react&logoColor=white&labelColor=1b1f3b)
+  ![Node.js](https://img.shields.io/badge/Node-454ade?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1b1f3b)
   ![Python](https://img.shields.io/badge/Python-454ade?style=for-the-badge&logo=python&logoColor=white&labelColor=1b1f3b)
-  ![ESP32](https://img.shields.io/badge/IoT%20ESP32-454ade?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1b1f3b)
 
 </div>
 
