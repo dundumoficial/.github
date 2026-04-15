@@ -69,7 +69,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
 ## Preview
 
 <div align="center">
-  <img width="1440" height="1304" alt="Imagem da dashboard da DunDum" src="https://github.com/user-attachments/assets/64c9ec7d-e725-46a7-8ab7-f5557d667c97" />
+  <img width="1920" height="1080" alt="Imagem da dashboard da DunDum" src="https://github.com/user-attachments/assets/73540e88-fa41-43ca-aa1c-e78633928338" />
 </div>
 
 ---
