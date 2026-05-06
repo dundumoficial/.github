@@ -101,7 +101,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img width="120" src="LINK" alt="Foto do Axel Ray"/></td>
+      <td align="center"><img width="120" src="https://github.com/user-attachments/assets/dab617e0-f7e3-4980-a909-7694cca0fb90" alt="Foto do Axel Ray"/></td>
       <td>Axel Ray</td>
       <td>UI/UX Design</td>
       <td>
