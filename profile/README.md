@@ -101,7 +101,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img width="60" height="60" src="LINK_FOTO" alt="Foto de perfil do Axel Ray"/></td>
+      <td align="center"><img width="120" src="LINK" alt="Foto do Axel Ray"/></td>
       <td>Axel Ray</td>
       <td>UI/UX Design</td>
       <td>
@@ -112,7 +112,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
       </td>
     </tr>
     <tr>
-      <td align="center"><img width="60" height="60" src="LINK_FOTO" alt="Foto de perfil da Beatriz Lacerda"/></td>
+      <td align="center"><img width="120" src="https://github.com/user-attachments/assets/9e4e2d32-2ee7-4def-b5aa-71023f6eccbc" alt="Foto da Beatriz Lacerda"/></td>
       <td>Beatriz Lacerda</td>
       <td>Dev. Front-End</td>
       <td>
@@ -123,7 +123,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
       </td>
     </tr>
     <tr>
-      <td align="center"><img width="60" height="60" src="LINK_FOTO" alt="Foto de perfil do Diego Cabaleiro"/></td>
+      <td align="center"><img width="120" src="https://github.com/user-attachments/assets/61da47fe-dff0-4fad-87b2-40838650d697" alt="Foto do Diego Cabaleiro"/></td>
       <td>Diego Cabaleiro</td>
       <td>Financeiro</td>
       <td>
@@ -134,7 +134,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
       </td>
     </tr>
     <tr>
-      <td align="center"><img width="60" height="60" src="LINK_FOTO" alt="Foto de perfil do Guilherme Machado"/></td>
+      <td align="center"><img width="120" src="https://github.com/user-attachments/assets/a2c0fc62-2c05-45fa-9fb3-e9036f35fa77" alt="Foto do Guilherme Machado"/></td>
       <td>Guilherme Machado</td>
       <td>Dev. Full Stack</td>
       <td>
@@ -145,7 +145,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
       </td>
     </tr>
     <tr>
-      <td align="center"><img width="60" height="60" src="LINK_FOTO" alt="Foto de perfil do Paulo Henrique"/></td>
+      <td align="center"><img width="120" src="https://github.com/user-attachments/assets/355ca4cd-6720-472b-b834-ef0297250b33" alt="Foto do Paulo Henrique"/></td>
       <td>Paulo Henrique</td>
       <td>Dev. Full Stack</td>
       <td>
@@ -156,7 +156,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
       </td>
     </tr>
     <tr>
-      <td align="center"><img width="60" height="60" src="LINK_FOTO" alt="Foto de perfil do Samuel Martins"/></td>
+      <td align="center"><img width="120" src="https://github.com/user-attachments/assets/2b7a12c7-4c25-4477-8dcf-8f32499c496c" alt="Foto do Samuel Martins"/></td>
       <td>Samuel Martins</td>
       <td>Dev. Back-End</td>
       <td>
@@ -167,7 +167,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
       </td>
     </tr>
     <tr>
-      <td align="center"><img width="60" height="60" src="LINK_FOTO" alt="Foto de perfil do Victor Mariano"/></td>
+      <td align="center"><img width="120" src="https://github.com/user-attachments/assets/5a9e4554-7a28-4388-b470-b08da964f47e" alt="Foto do Victor Mariano"/></td>
       <td>Victor Mariano</td>
       <td>Marketing</td>
       <td>
@@ -178,7 +178,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
       </td>
     </tr>
     <tr>
-      <td align="center"><img width="60" height="60" src="LINK_FOTO" alt="Foto de perfil da Wanny Barreto"/></td>
+      <td align="center"><img width="120" src="https://github.com/user-attachments/assets/584cb95e-d298-4f59-ba63-53a448943fdb" alt="Foto da Wanny Barreto"/></td>
       <td>Wanny Barreto</td>
       <td>Product Owner</td>
       <td>
