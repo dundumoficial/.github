@@ -28,7 +28,7 @@
 
 ## O que é a DunDum?
 
-A **DunDum** é uma **coleira inteligente** que usa inteligência artificial para monitorar as condições físicas do pet em tempo real.
+A **DunDum** é uma **coleira inteligente** que usa inteligência artificial para monitorar as condições físicas do cachorro em tempo real.
 
 <br/>
 
@@ -36,11 +36,11 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
   <tr>
     <td width="33%" align="center">
       <h3>🎯 Missão</h3>
-      <p>Com <strong>tecnologia inteligente</strong>, buscamos facilitar o <strong>monitoramento da saúde de pets</strong>. Queremos que todos os tutores possam viver sua rotina com tranquilidade, sabendo que mesmo longe, estão presentes e cuidando.</p>
+      <p>Com <strong>tecnologia inteligente</strong>, buscamos facilitar o <strong>monitoramento da saúde de cães</strong>. Queremos que todos os tutores possam viver sua rotina com tranquilidade, sabendo que mesmo longe, estão presentes e cuidando.</p>
     </td>
     <td width="33%" align="center">
       <h3>👁️ Visão</h3>
-      <p>Desenvolver uma <strong>solução funcional</strong> de monitoramento da saúde animal, tornando o cuidado com pets <strong>acessível</strong>, <strong>inteligente</strong> e presente para todo tutor, <strong>independente do seu orçamento</strong>.</p>
+      <p>Desenvolver uma <strong>solução funcional</strong> de monitoramento da saúde animal, tornando o cuidado com cães <strong>acessível</strong>, <strong>inteligente</strong> e presente para todo tutor, <strong>independente do seu orçamento</strong>.</p>
     </td>
     <td width="33%" align="center">
       <h3>🐾 Valores</h3>
@@ -60,7 +60,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
   <tr><td>📍</td><td><strong>Localização</strong></td><td>Rastreamento via GPS integrado na coleira</td></tr>
   <tr><td>🧠</td><td><strong>Comportamento</strong></td><td>Análise de padrões com inteligência artificial</td></tr>
   <tr><td>🔔</td><td><strong>Alertas</strong></td><td>Notificações para o tutor</td></tr>
-  <tr><td>📊</td><td><strong>Dashboard</strong></td><td>Histórico completo de saúde do pet</td></tr>
+  <tr><td>📊</td><td><strong>Dashboard</strong></td><td>Histórico completo de saúde do cachorro</td></tr>
   <tr><td>🌐</td><td><strong>Plataforma web</strong></td><td>Interface responsiva de fácil acesso</td></tr>
 </table>
 
@@ -81,6 +81,7 @@ A **DunDum** é uma **coleira inteligente** que usa inteligência artificial par
   ![React](https://img.shields.io/badge/React-454ade?style=for-the-badge&logo=react&logoColor=white&labelColor=1b1f3b)
   ![Node.js](https://img.shields.io/badge/Node-454ade?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1b1f3b)
   ![Python](https://img.shields.io/badge/Python-454ade?style=for-the-badge&logo=python&logoColor=white&labelColor=1b1f3b)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-454ade?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1b1f3b)
 
 </div>
 
